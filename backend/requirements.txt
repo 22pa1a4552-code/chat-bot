@@ -1,1 +1,5 @@
-streamlit
+fastapi
+uvicorn[standard]
+pydantic
+groq
+python-dotenv   # Optional if you want to manage env variables
